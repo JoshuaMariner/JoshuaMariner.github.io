@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive Table</title>
+    <title>Interactive Tables</title>
     <!-- Include DataTables CSS -->
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.css">
     <!-- Include jQuery -->
@@ -12,37 +12,126 @@
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.js"></script>
 </head>
 <body>
-    <table id="example" class="display">
-        <thead>
-            <tr>
-                <th>Header 1</th>
-                <th>Header 2</th>
-                <th>Header 3</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Row 1</td>
-                <td>Data 1</td>
-                <td>Data 2</td>
-            </tr>
-            <tr>
-                <td>Row 2</td>
-                <td>Data 3</td>
-                <td>Data 4</td>
-            </tr>
-            <tr>
-                <td>Row 3</td>
-                <td>Data 5</td>
-                <td>Data 6</td>
-            </tr>
-        </tbody>
-    </table>
 
-    <script>
-        $(document).ready( function () {
-            $('#example').DataTable();
-        } );
-    </script>
+<h2>Header 1</h2>
+<table id="table1" class="display">
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+            <td>Data 3</td>
+        </tr>
+        <tr>
+            <td>Data 4</td>
+            <td>Data 5</td>
+            <td>Data 6</td>
+        </tr>
+        <tr>
+            <td>Data 7</td>
+            <td>Data 8</td>
+            <td>Data 9</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Header 2</h2>
+<table id="table2" class="display">
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Data A</td>
+            <td>Data B</td>
+            <td>Data C</td>
+        </tr>
+        <tr>
+            <td>Data D</td>
+            <td>Data E</td>
+            <td>Data F</td>
+        </tr>
+        <tr>
+            <td>Data G</td>
+            <td>Data H</td>
+            <td>Data I</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Header 3</h2>
+<table id="table3" class="display">
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Item 1</td>
+            <td>Item 2</td>
+            <td>Item 3</td>
+        </tr>
+        <tr>
+            <td>Item 4</td>
+            <td>Item 5</td>
+            <td>Item 6</td>
+        </tr>
+        <tr>
+            <td>Item 7</td>
+            <td>Item 8</td>
+            <td>Item 9</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Header 4</h2>
+<table id="table4" class="display">
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Value 1</td>
+            <td>Value 2</td>
+            <td>Value 3</td>
+        </tr>
+        <tr>
+            <td>Value 4</td>
+            <td>Value 5</td>
+            <td>Value 6</td>
+        </tr>
+        <tr>
+            <td>Value 7</td>
+            <td>Value 8</td>
+            <td>Value 9</td>
+        </tr>
+    </tbody>
+</table>
+
+<script>
+    $(document).ready( function () {
+        $('#table1').DataTable();
+        $('#table2').DataTable();
+        $('#table3').DataTable();
+        $('#table4').DataTable();
+    });
+</script>
 </body>
 </html>
