@@ -1,0 +1,307 @@
+{
+    "couchCoopGames": [
+      {
+        "Name": "Overcooked 1",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "Cooperation cooking game",
+        "ESRB Rating": "Everyone",
+        "Description": "Fast-paced cooking game, best played with official servers or parsec/steam remote play."
+      },
+      {
+        "Name": "Overcooked 2",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "Cooperation cooking game",
+        "ESRB Rating": "Everyone",
+        "Description": "Fast-paced cooking game, connect via official servers, or parsec/steam remote play."
+      },
+      {
+        "Name": "PICO PARK",
+        "Mic Required": "No",
+        "Player Range": "2-8",
+        "Game Type": "Cooperative platform puzzle game",
+        "ESRB Rating": "Everyone",
+        "Description": "Platform puzzle game where stages require cooperation, connect via official servers or parsec/steam remote play."
+      }
+    ],
+    "onlineCoopGames": [
+      {
+        "Name": "Monopoly (Richup variant)",
+        "Mic Required": "No",
+        "Player Range": "2-8",
+        "Game Type": "Economics-themed strategy board game",
+        "ESRB Rating": "PG-7+",
+        "Description": "Digital version of the classic board game Monopoly, enhanced with Richup features and graphics. Game duration can vary significantly."
+      },
+      {
+        "Name": "Tabletopia",
+        "Mic Required": "No",
+        "Player Range": "Varies",
+        "Game Type": "Collection of board games",
+        "ESRB Rating": "Varies",
+        "Description": "A digital platform offering a vast collection of board games that can be played online with various filters for player requirement and playing time."
+      },
+      {
+        "Name": "Crowdparty",
+        "Mic Required": "Sometimes",
+        "Player Range": "3-10",
+        "Game Type": "Collection of party games",
+        "ESRB Rating": "PG-13+",
+        "Description": "A compilation of party games where the duration depends on the game chosen, typically lasting up to 15 minutes."
+      },
+      {
+        "Name": "Obliteracers",
+        "Mic Required": "No",
+        "Player Range": "2-16",
+        "Game Type": "Mariocart-like racing game",
+        "ESRB Rating": "Everyone",
+        "Description": "Competitive racing game similar to Mario Kart, with game duration ranging from 3 to 10 minutes. Mixed reviews noted."
+      },
+      {
+        "Name": "Turmoil",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "Oil-drilling tycoon game",
+        "ESRB Rating": "Everyone",
+        "Description": "Strategy game focused on managing an oil drilling operation, with multiplayer coming in Q1 2022. Singleplayer sessions last 5 to 14 hours."
+      },
+      {
+        "Name": "Codenames",
+        "Mic Required": "Yes",
+        "Player Range": "4-8",
+        "Game Type": "Word guessing card game",
+        "ESRB Rating": "PG-10+",
+        "Description": "Concept-identifying game, played over different screens, spymasters should mute to prevent verbal clues."
+      },
+      {
+        "Name": "Town of Salem",
+        "Mic Required": "No",
+        "Player Range": "7-15",
+        "Game Type": "Social-deduction strategy game",
+        "ESRB Rating": "PG-13+",
+        "Description": "Players assume roles of townsfolk or villains and must uncover each other's identities; games are played on different screens."
+      },
+      {
+        "Name": "Among Us",
+        "Mic Required": "Yes",
+        "Player Range": "4-15",
+        "Game Type": "Social deduction game",
+        "ESRB Rating": "ESRB-10+",
+        "Description": "Players work to prepare their spaceship for departure while rooting out impostors; game can be played across different devices."
+      },
+      {
+        "Name": "Goose Goose Duck",
+        "Mic Required": "Yes",
+        "Player Range": "4-16",
+        "Game Type": "Social deduction strategy game",
+        "ESRB Rating": "PG-13+",
+        "Description": "Similar to Among Us but with more roles, built-in proximity voice chat, and additional mechanics."
+      },
+      {
+        "Name": "Super Auto Pets",
+        "Mic Required": "No",
+        "Player Range": "2-10",
+        "Game Type": "Team-building auto-battler tournament-style game",
+        "ESRB Rating": "PG-10+",
+        "Description": "Team-building strategy game where players assemble teams of pets to battle against others."
+      },
+      {
+        "Name": "Crabgame",
+        "Mic Required": "No",
+        "Player Range": "2-16",
+        "Game Type": "Minigame-based last man standing",
+        "ESRB Rating": "PG-13+",
+        "Description": "Collection of minigames where players compete to be the last one standing."
+      },
+      {
+        "Name": "Toribash",
+        "Mic Required": "No",
+        "Player Range": "2-26",
+        "Game Type": "Move creator fighting tournament-style game",
+        "ESRB Rating": "Teen",
+        "Description": "Physics-based fighting game where players control the movement of their fighters' muscles."
+      },
+      {
+        "Name": "Killer Queen Black",
+        "Mic Required": "No",
+        "Player Range": "2-8",
+        "Game Type": "Platform strategy game",
+        "ESRB Rating": "ESRB-10+",
+        "Description": "Team-based combat game focused on either killing the opposing queen or completing strategic objectives."
+      },
+      {
+        "Name": "Pummel Party",
+        "Mic Required": "No",
+        "Player Range": "2-8",
+        "Game Type": "Mario party-like game",
+        "ESRB Rating": "Teen",
+        "Description": "Party game consisting of a series of minigames where players compete against each other."
+      },
+      {
+        "Name": "Talisman: Digital Edition",
+        "Mic Required": "Yes",
+        "Player Range": "2-6",
+        "Game Type": "Fantasy-themed adventure board game",
+        "ESRB Rating": "ESRB-10+",
+        "Description": "Digital version of the classic board game Talisman, where players go on quests to gain strength and conquer the crown of command."
+      },
+      {
+        "Name": "Crawl",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "Dungeon-crawler game with a twist",
+        "ESRB Rating": "Teen",
+        "Description": "Dungeon crawler where players take turns being the hero and the monsters, with the aim to defeat the final boss."
+      },
+      {
+        "Name": "Embr",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "Firefighting time-based game",
+        "ESRB Rating": "ESRB-10+",
+        "Description": "Cooperative firefighting game where players work together to save people from burning buildings."
+      },
+      {
+        "Name": "For The King",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "RPG Rogue-like tabletop adventure game",
+        "ESRB Rating": "Teen",
+        "Description": "Combination of strategy, RPG, and roguelike elements where players must survive to restore their kingdom."
+      },
+      {
+        "Name": "Just Shapes & Beats",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "Coop bullet-hell rhythm game",
+        "ESRB Rating": "ESRB-10+",
+        "Description": "Rhythm game where players dodge shapes synchronized to music."
+      },
+      {
+        "Name": "Lethal League Blaze",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "Ball-based fighting game",
+        "ESRB Rating": "Teen",
+        "Description": "Intense ball game where the goal is to hit your opponent with an ultra-fast ball."
+      },
+      {
+        "Name": "Move or Die",
+        "Mic Required": "No",
+        "Player Range": "2-4",
+        "Game Type": "Fast-paced minigame game",
+        "ESRB Rating": "ESRB-10+",
+        "Description": "Fast-paced party game where the mechanics change every 20 seconds."
+      },
+      {
+        "Name": "Moving Out",
+        "Mic Required": "No",
+        "Player Range": "2-4",
+        "Game Type": "Physics-based moving game",
+        "ESRB Rating": "Everyone",
+        "Description": "Physics-based moving simulator where players move furniture under time pressure."
+      },
+      {
+        "Name": "Rivals of Aether",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "Platformer fighting game",
+        "ESRB Rating": "ESRB-10+",
+        "Description": "Indie fighting game inspired by Super Smash Bros, focusing on elemental-based characters and dynamic fighting techniques."
+      },
+      {
+        "Name": "Squeakers",
+        "Mic Required": "No",
+        "Player Range": "1-4",
+        "Game Type": "Floor-is-lava type game",
+        "ESRB Rating": "Everyone",
+        "Description": "Platformer where players must avoid touching the floor, which is treated as lava."
+      }
+    ],
+    "webGames": [
+      {
+        "Name": "Dashpong",
+        "Mic Required": "No",
+        "Player Range": "2-4",
+        "Game Type": "Ping-pong game with a twist",
+        "ESRB Rating": "Everyone",
+        "Description": "An upcoming ping-pong based game with unique mechanics, set to be released in 2022."
+      },
+      {
+        "Name": "Multiversus",
+        "Mic Required": "No",
+        "Player Range": "2-4",
+        "Game Type": "Platform fighting game with Warner Bros IPs",
+        "ESRB Rating": "Teen",
+        "Description": "A new platform fighter featuring characters from Warner Bros franchises. Expected release in 2022."
+      },
+      {
+        "Name": "Cards Against Humanity",
+        "Mic Required": "No",
+        "Player Range": "3-50",
+        "Game Type": "Fill-in-the-blank card game",
+        "ESRB Rating": "PG-17+",
+        "Description": "Web-based card game where players complete statements using words or phrases on cards that are typically deemed as offensive, with a PG-13+ rating for the Family Edition."
+      },
+      {
+        "Name": "Garticphone",
+        "Mic Required": "No",
+        "Player Range": "4-30",
+        "Game Type": "Drawing game",
+        "ESRB Rating": "Dependent on players",
+        "Description": "Drawing and guessing game inspired by the telephone game; played in a web browser."
+      },
+      {
+        "Name": "Wordbomb",
+        "Mic Required": "No",
+        "Player Range": "2-30",
+        "Game Type": "Word creating game",
+        "ESRB Rating": "PG-13+",
+        "Description": "Players generate words from given letters within a time limit; played in a web browser."
+      }
+    ],
+    "hostGames": [
+      {
+        "Name": "Party Animals",
+        "Mic Required": "Unknown",
+        "Player Range": "Unknown",
+        "Game Type": "Ragdoll/Physics-engine based minigame game",
+        "ESRB Rating": "Unknown",
+        "Description": "Party game featuring ragdoll physics, still in development with release date TBD. Playable via official servers or parsec/steam remote play."
+      },
+      {
+        "Name": "Use Your Words",
+        "Mic Required": "No",
+        "Player Range": "3-6",
+        "Game Type": "Fill-in-the-blank comedy game",
+        "ESRB Rating": "Teen",
+        "Description": "Players complete sentences and phrases to create humorous or witty responses; host must own the game."
+      },
+      {
+        "Name": "Jackbox Party Pack",
+        "Mic Required": "Sometimes",
+        "Player Range": "3-8",
+        "Game Type": "Trivia/Fill-in-the-blank/Drawing/Social deduction/Comedic",
+        "ESRB Rating": "Teen",
+        "Description": "Collection of party games played via a central host device; players use phones or tablets as controllers."
+      },
+      {
+        "Name": "Just Act Natural",
+        "Mic Required": "No",
+        "Player Range": "2-8",
+        "Game Type": "Minigame-based game",
+        "ESRB Rating": "PG-13+",
+        "Description": "Host must purchase the game and can share with others via screen sharing; includes various minigames."
+      },
+      {
+        "Name": "Clue/Cluedo",
+        "Mic Required": "Yes",
+        "Player Range": "3-6",
+        "Game Type": "Murder-mystery board game",
+        "ESRB Rating": "PG-8+",
+        "Description": "Classic detective game where players must solve a murder mystery; host must own the game."
+      }
+    ]
+  }
+  
